@@ -21,6 +21,7 @@ While my hybrid algorithm outperformed the standalone algorithms mentioned above
 Here, I showcase my forecasting results and performance comparisons, highlighting the strengths and weaknesses of each algorithm. By evaluating metrics like Mean Squared Error (MSE) and R² Score, this project provides insights into which models perform best for specific types of time series patterns.
 
 ![Screenshot 2024-10-21 022058](https://github.com/user-attachments/assets/4f25abfe-73af-4e13-b2a4-4183ca9d9b8a)
+
 ALT: All the standard parameters comparison
 
 ![Screenshot 2024-10-21 021901](https://github.com/user-attachments/assets/3342b11f-d109-4b13-b523-a0023698f9e5)
