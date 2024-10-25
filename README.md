@@ -40,7 +40,7 @@ ALT: Forcasting
 
 ### Prerequisites
 - Python 3.8+
-- Required libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `tensorflow`, `keras`, and any additional libraries listed in `requirements.txt`.
+- Required libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `tensorflow`, `keras`, and any additional libraries listed in `requirements.md`.
 
 ### Installation
 1. Clone this repository:
