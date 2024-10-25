@@ -45,5 +45,5 @@ ALT: Forcasting
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/metaheuristic-optimizers-study.git
+   git clone https://github.com/suhanpahari/A-Comparative-Study-of-Metaheuristic-Algorithms-Based-Optimizers.git
    cd metaheuristic-optimizers-study
